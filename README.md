@@ -37,7 +37,7 @@ A csv file which contains the houses price in Australia market based on some fac
 - Plotly - version 5.9.0
 
 ## Acknowledgements
-This project was provided by UpGrad under IIITB Programme as a assignment for the Linear Regression course.
+This project was provided by UpGrad under IIITB Programme as a assignment for the Advanced Regression course.
 
 ## Contact
 Created by [@anishkumardubey] - feel free to contact me!
